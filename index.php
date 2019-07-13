@@ -5,8 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-            
-        ?>
+        <h1>Este é o meu título</h1>
     </body>
 </html>
