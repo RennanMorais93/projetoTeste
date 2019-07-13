@@ -1,10 +1,10 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+        <meta charset="utf-8">
+        <title>Nosso Projeto Teste</title>
     </head>
     <body>
-        <h1>Este é o meu título</h1>
+        <h1>Título da página</h1>
     </body>
 </html>
+
